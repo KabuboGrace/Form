@@ -1,0 +1,20 @@
+div.second{
+    text-align: center;
+}
+
+.send{
+    width: 30%;
+    background-color: dodgerblue;
+    height: 40px;
+
+}
+input{
+    width: 30%;
+    height: 30px;
+}
+
+
+label{
+    text-align: left;
+
+}
